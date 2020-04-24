@@ -1,0 +1,36 @@
+{
+  "group": "marcoviertch",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:gold_block"
+    },
+    "3": {
+      "item": "marcoviertch:rubi"
+    },
+    "4": {
+      "item": "minecraft:obsidian"
+    },
+    "5": {
+      "item": "marcoviertch:rubi"
+    },
+    "6": {
+      "item": "marcoviertch:rubi"
+    },
+    "7": {
+      "item": "minecraft:obsidian"
+    },
+    "8": {
+      "item": "marcoviertch:rubi"
+    }
+  },
+  "result": {
+    "item": "marcoviertch:mesademarcoviertch",
+    "count": 1
+  }
+}

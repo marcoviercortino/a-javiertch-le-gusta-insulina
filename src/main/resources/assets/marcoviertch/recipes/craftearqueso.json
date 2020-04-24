@@ -1,0 +1,16 @@
+{
+  "group": "marcoviertch",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "item": "marcoviertch:queso",
+    "count": 1
+  }
+}

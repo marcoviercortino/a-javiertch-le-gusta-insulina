@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "marcoviertch:mesademarcoviertch"
+    },
+    "facing=north": {
+      "model": "marcoviertch:mesademarcoviertch"
+    },
+    "facing=east": {
+      "model": "marcoviertch:mesademarcoviertch",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "marcoviertch:mesademarcoviertch",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "marcoviertch:mesademarcoviertch",
+      "y": 270
+    }
+  }
+}

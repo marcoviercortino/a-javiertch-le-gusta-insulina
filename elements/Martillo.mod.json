@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "martillo",
+    "customModelName": "Normal",
+    "name": "Martillo",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Special",
+    "harvestLevel": 2,
+    "efficiency": 7.0,
+    "attackSpeed": 2.0,
+    "enchantability": 20,
+    "damageVsEntity": 4.0,
+    "usageCount": 251,
+    "blocksAffected": [
+      {
+        "value": "Blocks.HAY_BLOCK"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

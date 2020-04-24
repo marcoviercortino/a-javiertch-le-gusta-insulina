@@ -1,0 +1,42 @@
+{
+  "group": "marcoviertch",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "marcoviertch:rubi"
+    },
+    "1": {
+      "item": "marcoviertch:rubi"
+    },
+    "2": {
+      "item": "marcoviertch:rubi"
+    },
+    "3": {
+      "item": "marcoviertch:rubi"
+    },
+    "4": {
+      "item": "marcoviertch:rubi"
+    },
+    "5": {
+      "item": "marcoviertch:rubi"
+    },
+    "6": {
+      "item": "marcoviertch:rubi"
+    },
+    "7": {
+      "item": "marcoviertch:rubi"
+    },
+    "8": {
+      "item": "marcoviertch:rubi"
+    }
+  },
+  "result": {
+    "item": "marcoviertch:bloquederubi",
+    "count": 1
+  }
+}

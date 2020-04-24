@@ -1,0 +1,54 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "diamond_helmet",
+    "enableBody": true,
+    "textureBody": "diamond_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "diamond_leggings",
+    "enableBoots": true,
+    "textureBoots": "diamond_boots",
+    "onHelmetTick": {
+      "name": "ArmaduradediamantereforzadaHelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "diamond_",
+    "helmetName": "Casco de diamante reforzado",
+    "bodyName": "Pechera de diamante reforzada",
+    "leggingsName": "Grebas de diamante reforzadas",
+    "bootsName": "Botas de diamante reforzadas",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 200,
+    "damageValueHelmet": 7,
+    "damageValueBody": 12,
+    "damageValueLeggings": 11,
+    "damageValueBoots": 6,
+    "enchantability": 40,
+    "toughness": 4.0,
+    "equipSound": {
+      "value": "block.lantern.place"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Lingotedediamante"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Rubi"
+      },
+      {
+        "value": "CUSTOM:Rubi"
+      },
+      {
+        "value": "CUSTOM:Rubi"
+      },
+      {
+        "value": "CUSTOM:Rubi"
+      },
+      {
+        "value": "CUSTOM:Rubi"
+      },
+      {
+        "value": "CUSTOM:Rubi"
+      },
+      {
+        "value": "CUSTOM:Rubi"
+      },
+      {
+        "value": "CUSTOM:Rubi"
+      },
+      {
+        "value": "CUSTOM:Rubi"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Bloquederubi"
+    },
+    "name": "craftearbloquederubi",
+    "namespace": "mod"
+  }
+}

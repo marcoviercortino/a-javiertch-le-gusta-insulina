@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "marcoviertch:blocks/partedeabajomesademarcoviertch",
+    "up": "marcoviertch:blocks/partedearribamesademarcoviertch",
+    "north": "marcoviertch:blocks/partelateralmesademarcoviertch",
+    "east": "marcoviertch:blocks/partelateralmesademarcoviertch",
+    "south": "marcoviertch:blocks/partelateralmesademarcoviertch",
+    "west": "marcoviertch:blocks/partelateralmesademarcoviertch",
+    "particle": "marcoviertch:blocks/partedeabajomesademarcoviertch"
+  }
+}
